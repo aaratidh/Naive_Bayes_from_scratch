@@ -1,0 +1,2 @@
+# Naive_Bayes_with_scrap
+Naive_bayes_using _Scrap
